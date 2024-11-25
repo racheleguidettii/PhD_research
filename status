@@ -1,0 +1,47 @@
+[33mcommit c617e810410ff08a439d485fd431942502cab10d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Rachele Guidetti <r.guidetti@campus.unimib.it>
+Date:   Mon Nov 25 12:57:36 2024 +0100
+
+    Add Github Action, test 2
+
+[33mcommit d24ad3bd39bae710a86e4586f04b5d639f70a2ac[m
+Author: Rachele Guidetti <r.guidetti@campus.unimib.it>
+Date:   Mon Nov 25 12:55:58 2024 +0100
+
+    Initialization
+
+[33mcommit 6fe08ae6d05075e617c79f3df801c0c80044b33b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Rachele Guidetti <r.guidetti@campus.unimib.it>
+Date:   Mon Nov 25 12:44:36 2024 +0100
+
+    Change README
+
+[33mcommit 0651ce76afc0ad5ae634652177c283be1e7f61e6[m
+Author: Rachele Guidetti <r.guidetti@campus.unimib.it>
+Date:   Mon Nov 25 12:42:29 2024 +0100
+
+    Update README
+
+[33mcommit 2f5c013d449e934b0ec346f10a65b1b94924e13b[m
+Author: Rachele Guidetti <r.guidetti@campus.unimib.it>
+Date:   Mon Nov 25 12:41:23 2024 +0100
+
+    Update README
+
+[33mcommit 854ecedd7d87ee857f7e00844ab1540d76c6acdb[m
+Author: Rachele Guidetti <r.guidetti@campus.unimib.it>
+Date:   Mon Nov 25 12:40:12 2024 +0100
+
+    Add GitHub Action to check name in README.md
+
+[33mcommit 71c40a05e69a6d2cb088ce0a5d125371aa62f5ed[m
+Author: Rachele Guidetti <r.guidetti@campus.unimib.it>
+Date:   Mon Nov 25 12:33:48 2024 +0100
+
+    Add GitHub Action.md
+
+[33mcommit e2a12d63a820d9483120a0bdd8d441ea5da7c6f1[m
+Author: Rachele Guidetti <r.guidetti@campus.unimib.it>
+Date:   Mon Nov 25 11:37:24 2024 +0100
+
+    Initial commit of my research project
