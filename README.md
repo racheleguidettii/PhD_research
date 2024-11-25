@@ -1,2 +1,1 @@
-Adding some changes to README
-Adding some changes to README 2
+This is the README for my project.
